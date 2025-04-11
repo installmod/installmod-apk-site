@@ -22,6 +22,16 @@
 - **Deployment:** Netlify & Vercel
 - **SEO Tools:** Sitemap.xml, robots.txt, schema.org markup
 
+- **Website & Socials**
+Website: installmod.com
+
+Instagram: @installmod_com
+
+YouTube: @rakeshxofficiall
+
+X (Twitter): @rakeshxofficial
+
+
 ---
 
 ## Installation
@@ -31,12 +41,3 @@ git clone https://github.com/installmod/installmod-apk-site.git
 cd installmod-apk-site
 npm install
 npm run dev
-
-Website & Socials
-Website: installmod.com
-
-Instagram: @installmod_com
-
-YouTube: @rakeshxofficial
-
-X (Twitter): @rakeshxofficial
